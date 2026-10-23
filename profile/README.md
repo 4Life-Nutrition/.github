@@ -3,8 +3,8 @@
 **Your Health, Our Mission.** Suplementos e vitaminas de Guarapari (ES) para quem cuida
 de saúde, estética e performance.
 
-A 4Life roda duas plataformas próprias, com código, banco e deploy separados. Elas só
-conversam por API.
+A 4Life tem duas plataformas próprias, cada uma no seu repositório. A partir do fim de
+2026 elas passam a ter também banco e deploy separados, e a conversar só por API.
 
 | | Loja | Creator Army |
 |---|---|---|
@@ -32,7 +32,7 @@ sem plugin de terceiros no meio.
 
 O programa de creators da 4Life. A pessoa se inscreve, alguém da equipe avalia, e quem
 entra ganha um cupom próprio e um portal com cada venda e a comissão dela. Nasceu como
-módulo da loja e virou uma plataforma separada em outubro de 2026.
+módulo da loja e, desde outubro de 2026, está virando uma plataforma separada.
 
 <p>
   <img src="prints/landing-desktop.png" alt="Landing do Creator Army no desktop" width="62%">

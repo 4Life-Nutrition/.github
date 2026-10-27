@@ -3,8 +3,8 @@
 **Your Health, Our Mission.** Suplementos e vitaminas de Guarapari (ES) para quem cuida
 de saúde, estética e performance.
 
-A 4Life tem duas plataformas próprias, cada uma com repositório, domínio, banco e deploy
-separados.
+A 4Life tem duas plataformas próprias, cada uma no seu repositório e no seu domínio. O
+Creator Army já tem banco e deploy próprios e está terminando de sair de dentro da loja.
 
 | | Loja | Creator Army |
 |---|---|---|
